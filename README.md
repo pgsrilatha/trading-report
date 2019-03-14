@@ -1,8 +1,13 @@
 # trading-report
 trading report java project
 
-Project Setup
-Need to import project and run TradingReportApp java file to run complete logic and all sample scenarios. Please find below response from this project
+Project Execution for results
+
+Step 1 : Import Project
+
+Step 2 : Execute TradingReportApp.java file
+
+Step 3:- It will display below results as per the CSV data and logici mplemented in the project.
 
 ****************************************
 Outgoing Trading Amount On Daily
